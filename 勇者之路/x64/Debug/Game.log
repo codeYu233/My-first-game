@@ -1,0 +1,6 @@
+﻿  源.cpp
+D:\Project\C\Game\源.cpp(33,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Project\C\Game\源.cpp(75,11): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Project\C\Game\源.cpp(138,21): error C2065: “GCL_HCURSOR”: 未声明的标识符
+D:\Project\C\Game\源.cpp(138,44): warning C4311: “类型强制转换”: 从“HCURSOR”到“long”的指针截断
+D:\Project\C\Game\源.cpp(138,44): warning C4302: “类型强制转换”: 从“HCURSOR”到“long”截断
