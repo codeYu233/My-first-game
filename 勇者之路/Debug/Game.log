@@ -1,11 +1,1 @@
-﻿  源.cpp
-C:\Users\Q\Desktop\勇者之路\源.cpp(149,43): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
-C:\Users\Q\Desktop\勇者之路\源.cpp(807,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-C:\Users\Q\Desktop\勇者之路\源.cpp(808,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-C:\Users\Q\Desktop\勇者之路\源.cpp(1141,14): warning C4101: “enemy”: 未引用的局部变量
-C:\Users\Q\Desktop\勇者之路\源.cpp(1560,14): warning C4101: “enemy”: 未引用的局部变量
-C:\Users\Q\Desktop\勇者之路\源.cpp(2089,14): warning C4101: “enemy”: 未引用的局部变量
-C:\Users\Q\Desktop\勇者之路\源.cpp(2675,14): warning C4101: “enemy”: 未引用的局部变量
-C:\Users\Q\Desktop\勇者之路\源.cpp(3619,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-C:\Users\Q\Desktop\勇者之路\源.cpp(3630,29): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
-  Game.vcxproj -> C:\Users\Q\Desktop\勇者之路\Debug\Game.exe
+﻿  Game.vcxproj -> D:\Git\勇者之路\Debug\Game.exe

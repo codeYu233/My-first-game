@@ -739,7 +739,7 @@ int menu()
 			outtextxy(60, 530, _T("操作说明："));
 			f.lfHeight = 40;
 			settextstyle(&f);
-			outtextxy(260, 360, _T("UESTC-22级计10班青泰宇"));
+			outtextxy(260, 360, _T("UESTC-22级xxx"));
 			outtextxy(260, 280, _T(" 各视频网站和论坛分享经验的UP主和博主"));
 			outtextxy(260, 540, _T("酒馆WASD移动，J进入光圈，其余鼠标操作"));
 			f.lfHeight = 30;
